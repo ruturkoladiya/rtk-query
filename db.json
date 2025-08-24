@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "rutu",
+      "email": "rutu@mail.com",
+      "isAdmin": true,
+      "id": "2"
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "isAdmin": true,
+      "id": "c35f"
+    },
+    {
+      "name": "user",
+      "email": "user@gmail.com",
+      "isAdmin": false,
+      "id": "fd22"
+    },
+    {
+      "id": "2828",
+      "name": "test",
+      "email": "test@gmail.com",
+      "isAdmin": true
+    }
+  ]
+}
